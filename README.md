@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python and Machine learning, very interested in Data Analysis and Artificial intelligence<br>doing my third year in engineering in SIT, Mangalore.<br>👯 I’m looking to collaborate with people who have similar interests and are interested in working on fun projects that will help us learn<br>🤝 I’m looking for help with Flutter, Django and MySQL databases. Interested in more advanced Data science and Machine learning<br>🌱 I’m currently learning Flutter, MySQL, Data Science using Python<br>⚡ Fun fact I enjoy breathing living and walking coding just as much as I enjoy eating 
+🔭 I’m currently working on Python and Machine learning, very interested in Data Analysis and Artificial intelligence<br>doing my third year in engineering in SIT, Mangalore.<br>👯 I’m looking to collaborate with people who have similar interests and are interested in working on fun projects that will help us learn<br>🤝 I’m looking for help with Flutter, Django and MySQL databases. Interested in more advanced Data science and Machine learning<br>🌱 I’m currently learning PowerBI, MySQL, Data Science using Python, Advanced Excel<br>⚡ Fun fact I enjoy baking, I've got a sweet tooth 
 
 
 ## 🌐 Socials:
